@@ -14,12 +14,10 @@ html{
 h1 {
   text-shadow: 2px 2px 2px gray;
   letter-spacing: 1.2em;
+  border-bottom: solid 3px rgb(115,115,114);
   font-size: 2rem;
   font-family: josefin-sans
 }
 #basic p {
   font-weight: bold;
-}
-.title {
-    border-bottom: solid 3px rgb(115,115,114);
 }
