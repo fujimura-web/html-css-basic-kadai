@@ -13,11 +13,13 @@ html{
 }
 h1 {
   text-shadow: 2px 2px 2px gray;
-  text-decoration: underline 3px rgb(115,115,114);
   letter-spacing: 1.2em;
   font-size: 2rem;
   font-family: josefin-sans
 }
 #basic p {
   font-weight: bold;
+}
+.title {
+    border-bottom: solid 3px rgb(115,115,114);
 }
